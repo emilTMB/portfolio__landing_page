@@ -515,4 +515,7 @@ textarea {
     .skills__img {
         max-width: 320px;
     }
+    .partners-items {
+        justify-content: center
+    }
 }
