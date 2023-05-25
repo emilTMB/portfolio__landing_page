@@ -491,8 +491,6 @@ textarea {
     .inputs {
         display: grid;
         grid-template-areas: "a" "b" "c" "d";
-        padding-left: 101px;
-        justify-content: start;
     }
 }
 
@@ -519,8 +517,5 @@ textarea {
     }
     .partners-items {
         justify-content: center
-    }
-    .inputs {
-        padding-left: 44px;
     }
 }
