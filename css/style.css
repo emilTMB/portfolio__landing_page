@@ -491,6 +491,8 @@ textarea {
     .inputs {
         display: grid;
         grid-template-areas: "a" "b" "c" "d";
+        padding-left: 101px;
+        justify-content: start;
     }
 }
 
