@@ -520,4 +520,7 @@ textarea {
     .partners-items {
         justify-content: center
     }
+    .inputs {
+        padding-left: 44px;
+    }
 }
